@@ -1,0 +1,19 @@
+:root{
+    --primary-color:rgb(39, 39, 39);
+    --secondary-color:rgb(39, 39, 39);
+}
+
+
+.nav-style{
+    display: none;
+}
+
+html{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.button-nav-display-img{
+    fill: white;
+}
